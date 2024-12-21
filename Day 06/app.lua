@@ -1,1 +1,2 @@
-local score
+
+local points
