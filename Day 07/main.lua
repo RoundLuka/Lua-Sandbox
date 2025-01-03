@@ -8,3 +8,4 @@
 local function damage(playerHealth)
     playerHealth = playerHealth - 1
 end
+
