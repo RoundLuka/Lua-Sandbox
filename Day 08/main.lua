@@ -41,3 +41,7 @@
 --     wait(0.2)
 --     part.Color = Color3.fromRGB(r,g,b)
 -- end
+
+
+local randNumber = math.random(1,100)
+print(randNumber)
