@@ -43,5 +43,3 @@
 -- end
 
 
-local randNumber = math.random(1,100)
-print(randNumber)
