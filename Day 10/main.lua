@@ -4,3 +4,4 @@
 -- events
 -- client and server
 -- Rarity
+-- camera manipulation
