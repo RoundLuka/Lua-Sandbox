@@ -11,7 +11,5 @@
 
 -- badge
 
--- developer products
--- module
 
---
+
