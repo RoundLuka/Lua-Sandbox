@@ -9,7 +9,6 @@
 -- animation
 -- devproduct
 
--- badge
 
 
 
